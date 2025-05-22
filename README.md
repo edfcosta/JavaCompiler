@@ -49,6 +49,18 @@ Ele realiza análise léxica, análise sintática e geração de código para ex
    java Compilador teste
    ```
 
+3. **Execução**: Execute a classe principal `Interpretador` passando como argumento o caminho para o arquivo de entrada contendo a expressão a ser Interpretada.
+
+   ```bash
+   java Interpretador caminho/para/arquivo_de_entrada
+   ```
+
+   Exemplo:
+
+   ```bash
+   java Interpretador teste
+   ```
+   
 ## Exemplos de Entrada
 
 O repositório contém alguns arquivos de exemplo que podem ser utilizados para testar o compilador:
