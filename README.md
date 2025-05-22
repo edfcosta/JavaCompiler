@@ -29,7 +29,7 @@ Ele realiza análise léxica, análise sintática e geração de código para ex
 - **Compilador Principal**: Classe principal que integra todas as etapas do compilador.
   - `Compilador.java`
 
-## Como Compilar e Executar
+## Como Compilar ou Interpretar
 
 1. **Compilação**: Compile todos os arquivos `.java` presentes no repositório.
 
