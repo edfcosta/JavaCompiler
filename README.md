@@ -37,7 +37,7 @@ Ele realiza análise léxica, análise sintática e geração de código para ex
    javac *.java
    ```
 
-2. **Execução**: Execute a classe principal `Compilador` passando como argumento o caminho para o arquivo de entrada contendo a expressão a ser compilada.
+2. **Compilação**: Execute a classe principal `Compilador` passando como argumento o caminho para o arquivo de entrada contendo a expressão a ser compilada.
 
    ```bash
    java Compilador caminho/para/arquivo_de_entrada
@@ -49,7 +49,7 @@ Ele realiza análise léxica, análise sintática e geração de código para ex
    java Compilador teste
    ```
 
-3. **Execução**: Execute a classe principal `Interpretador` passando como argumento o caminho para o arquivo de entrada contendo a expressão a ser Interpretada.
+3. **Intepretação**: Execute a classe principal `Interpretador` passando como argumento o caminho para o arquivo de entrada contendo a expressão a ser Interpretada.
 
    ```bash
    java Interpretador caminho/para/arquivo_de_entrada
