@@ -1,5 +1,3 @@
-import java.util.concurrent.Flow.Subscriber;
-
 class ArvoreSintatica {
 }
 
@@ -7,9 +5,9 @@ class Exp extends ArvoreSintatica {
 }
 
 class Num extends Exp {
-	int num;
+	float num;
 
-	Num(int num) {
+	Num(float num) {
 		this.num = num;
 	}
 }
